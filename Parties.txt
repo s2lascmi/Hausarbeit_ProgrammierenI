@@ -1,0 +1,3 @@
+(CDU):,(CSU):,(CDU und CSU):,(CDU/CSU):,(BP):,(SPD):,(BÜNDNIS 90/DIE GRÜNEN):,GRÜNEN):,
+(DIE LINKE):,LINKE):,(FDP):,(F D P ):,(KPD):,(WAV):,(DP):,(FU):,(FRAKTIONSLOS):,(PDS):,
+(Z):,(DRP):,(AfD):
